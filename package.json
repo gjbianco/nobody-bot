@@ -22,6 +22,7 @@
     "hubot-sayings": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1",
+    "hubot-simple-gif": "^1.0.0",
     "hubot-simple-karma": "^1.0.0"
   }
 }
