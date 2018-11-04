@@ -11,6 +11,7 @@
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
     "hubot-discord": "^2.1.0",
+    "hubot-glados-taunts": "^1.0.0",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
     "hubot-help": "^0.2.2",
@@ -25,6 +26,6 @@
     "hubot-simple-attendance": "^1.1.0",
     "hubot-simple-gif": "^1.0.0",
     "hubot-simple-karma": "^1.0.0",
-    "hubot-simple-trivia": "^1.0.0"
+    "hubot-simple-trivia": "^1.1.0"
   }
 }

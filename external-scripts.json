@@ -2,12 +2,14 @@
   "hubot-help",
   "hubot-google-images",
   "hubot-google-translate",
+  "hubot-glados-taunts",
   "hubot-pugme",
   "hubot-redis-brain",
   "hubot-sayings",
   "hubot-simple-attendance",
   "hubot-simple-gif",
   "hubot-simple-karma",
+  "hubot-simple-meme",
   "hubot-simple-trivia",
   "hubot-shipit"
 ]
