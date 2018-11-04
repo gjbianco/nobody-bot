@@ -26,6 +26,7 @@
     "hubot-simple-attendance": "^1.1.0",
     "hubot-simple-gif": "^1.0.0",
     "hubot-simple-karma": "^1.0.0",
+    "hubot-simple-meme": "^1.0.0",
     "hubot-simple-trivia": "^1.1.0"
   }
 }
