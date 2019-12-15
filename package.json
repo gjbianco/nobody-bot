@@ -8,7 +8,7 @@
     "start": "hubot"
   },
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.3.2",
     "hubot-diagnostics": "0.0.2",
     "hubot-discord": "^2.1.0",
     "hubot-glados-taunts": "^1.0.0",
@@ -29,7 +29,6 @@
     "hubot-simple-karma": "^1.0.0",
     "hubot-simple-meme": "^1.0.0",
     "hubot-simple-namer": "^1.0.2",
-    "hubot-simple-trivia": "^1.1.0",
     "hubot-simple-xkcd": "^1.0.2"
   }
 }
