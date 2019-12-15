@@ -29,6 +29,7 @@
     "hubot-simple-karma": "^1.0.0",
     "hubot-simple-meme": "^1.0.0",
     "hubot-simple-namer": "^1.0.2",
+    "hubot-simple-trivia": "^1.1.1",
     "hubot-simple-xkcd": "^1.0.2"
   }
 }
